@@ -12,5 +12,10 @@ DemoVideo
 
 https://user-images.githubusercontent.com/106973558/191958417-47ce34ed-f865-4861-a140-08af16e7fecc.mp4
 
+Project Report
+
+[Virtual Internship - Android Application Development Using Kotlin-1-2 (1).pdf](https://github.com/smartinternz02/SPSGP-82649-Virtual-Internship---Android-Application-Development-Using-Kotlin/files/9633642/Virtual.Internship.-.Android.Application.Development.Using.Kotlin-1-2.1.pdf)
+
+
 
 
